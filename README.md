@@ -2,15 +2,19 @@
 
 <!--
 **flavianeferrares/flavianeferrares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+# Flaviane Vitoria Ferrares
 
-Here are some ideas to get you started:
+## Olá pessoal :blush:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conhece a programação em 2017 desde então me apaixonei pela possibilidade de resolver problemas reais utilizando a programação.
+Sou estudante de Sistemas de Informação pela UFOP (Universidade Federal de Ouro Preto) 
+
+Posso te ajudar colaborando em projetos usando linguagem C, Java e JavaScript.
+
+Sobre mim: Gosto tecnologias, musicas, fazer exercícios físicos e seriados no Netflix
+Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/flaviane-ferrares2308/) 
+| 
+[![Gmail Badge]()](mailto:flaviane.ferrares@gmail.com)
+
+```
