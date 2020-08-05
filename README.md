@@ -10,6 +10,6 @@ Posso te ajudar colaborando em projetos usando linguagem C, Java e JavaScript.
 
 Sobre mim: Gosto tecnologias, musicas, fazer exercícios físicos e seriados no Netflix
 Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/flaviane-ferrares2308/)]
-[![Gmail Badge](flaviane.ferrares@gmail.com)]
+[![Gmail Badge](https://mail.google.com/mail/u/0/#inbox/flaviane.ferrares@gmail.com)]
 
 ```
