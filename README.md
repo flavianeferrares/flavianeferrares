@@ -1,15 +1,12 @@
- # Flaviane Vitoria Ferrares
-
-## Olá pessoal :
-blush:
-
-Conhece a programação em 2017 desde então me apaixonei pela possibilidade de resolver problemas reais utilizando a programação.
-Sou estudante de Sistemas de Informação pela UFOP (Universidade Federal de Ouro Preto) 
-
-Posso te ajudar colaborando em projetos usando linguagem C, Java e JavaScript.
-
-Sobre mim: Gosto tecnologias, musicas, fazer exercícios físicos e seriados no Netflix
-Entre em contato comigo: [(https://www.linkedin.com/in/flaviane-ferrares2308/)]
-[(https://mail.google.com/mail/u/0/#inbox/flaviane.ferrares@gmail.com)]
-
-```
+ ## Olá! Eu sou a  Flaviane Ferrares 
+ 
+<div>
+  <a href="https://github.com/flavianeferrares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavianeferrares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavianeferrares&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
+<div> 
+  <a href="https://www.instagram.com/flavianeferrarez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/flaviane-ferrares2308/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
